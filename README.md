@@ -1,7 +1,11 @@
+
 # Firmware v2
 Firmware v2 is a C language software development environment for embedded
 systems. At the moment it focuses specifically on the programming of 
 microcontrollers.
+
+# New features
+ * Agrego modulo UART (#1)
 
 ## IMPORTANT
 
